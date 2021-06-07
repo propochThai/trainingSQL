@@ -1,0 +1,1 @@
+docker-compose run db sh -c "mysql -h appsDB -P 3306 -u root -phelloworld ORG < data.sql"

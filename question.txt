@@ -1,0 +1,64 @@
+1. Write an SQL query to fetch “FIRST_NAME” from Worker table using the alias name as <WORKER_NAME>.
+Ans
+2. Write an SQL query to fetch “FIRST_NAME” from Worker table in upper case.
+Ans
+3. Write an SQL query to fetch unique values of DEPARTMENT from Worker table.
+Ans
+4. Write an SQL query to print the first three characters of  FIRST_NAME from Worker table.
+Ans
+5. Write an SQL query that fetches the unique values of DEPARTMENT from Worker table and prints its length.
+Ans
+6. Write an SQL query to print the FIRST_NAME from Worker table after replacing ‘a’ with ‘A’.
+Ans
+ึ7. Write an SQL query to print the FIRST_NAME and LAST_NAME from Worker table into a single column COMPLETE_NAME. A space char should separate them.
+Ans
+8. Write an SQL query to print all Worker details from the Worker table order by FIRST_NAME Ascending.
+Ans
+9. Write an SQL query to print all Worker details from the Worker table order by FIRST_NAME Ascending and DEPARTMENT Descending.
+Ans
+10. Write an SQL query to print details for Workers with the first name as “Vipul” and “Satish” from Worker table.
+Ans 
+11. Write an SQL query to print details of workers excluding first names, “Vipul” and “Satish” from Worker table
+Ans
+12. Write an SQL query to print details of Workers with DEPARTMENT name as “Admin”.
+Ans. 
+13. Write an SQL query to print details of the Workers whose FIRST_NAME contains ‘a’.
+Ans. 
+14. Write an SQL query to print details of the Workers whose FIRST_NAME ends with ‘a’.
+Ans 
+15. Write an SQL query to print details of the Workers whose FIRST_NAME ends with ‘h’ and contains six alphabets.
+Ans. 
+16. Write an SQL query to print details of the Workers whose SALARY lies between 100000 and 500000.
+Ans. 
+17. Write an SQL query to print details of the Workers who have joined in Feb’2014.
+Ans. 
+18. Write an SQL query to fetch the count of employees working in the department ‘Admin’.
+Ans. 
+19. Write an SQL query to fetch worker names with salaries >= 50000 and <= 100000.
+Ans. 
+20. Write an SQL query to fetch the no. of workers for each department in the descending order.
+Ans. 
+21. Write an SQL query to print details of the Workers who are also Managers.
+Ans. 
+22.  Write an SQL query to clone a new table from another table.
+Ans. 
+23. Write an SQL query to show the current date and time.
+Ans. 
+24. Write an SQL query to show the top n (say 10) records of a table.
+Ans. 
+25. Write an SQL query to fetch the list of employees with the same salary.
+Ans. 
+26. Write an SQL query to show the second highest salary from a table.
+Ans. 
+27. Write an SQL query to fetch the departments that have less than five people in it.
+Ans. 
+28. Write an SQL query to print the name of employees having the highest salary in each department.
+Ans. 
+29. Write an SQL query to fetch departments along with the total salaries paid for each of them.
+Ans. 
+30. Write an SQL query to fetch the names of workers who earn the highest salary
+Ans.
+
+
+
+
