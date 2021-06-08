@@ -20,8 +20,10 @@ Ans
 Ans 
 11. Write an SQL query to print details of workers excluding first names, “Vipul” and “Satish” from Worker table
 Ans
+
 12. Write an SQL query to print details of Workers with DEPARTMENT name as “Admin”.
 Ans. 
+
 13. Write an SQL query to print details of the Workers whose FIRST_NAME contains ‘a’.
 Ans. 
 14. Write an SQL query to print details of the Workers whose FIRST_NAME ends with ‘a’.
@@ -44,13 +46,13 @@ Ans.
 Ans. 
 23. Write an SQL query to show the current date and time.
 Ans. 
-24. Write an SQL query to show the top n (say 10) records of a table.
+24. Write an SQL query to show the top n (say 5) records of a table.
 Ans. 
 25. Write an SQL query to fetch the list of employees with the same salary.
 Ans. 
 26. Write an SQL query to show the second highest salary from a table.
 Ans. 
-27. Write an SQL query to fetch the departments that have less than five people in it.
+27. Write an SQL query to fetch the departments that have less than two people in it.
 Ans. 
 28. Write an SQL query to print the name of employees having the highest salary in each department.
 Ans. 
