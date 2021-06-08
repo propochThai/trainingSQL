@@ -10,7 +10,8 @@ services:
       volumes:
          - ./data.sql:/data.sql
       environment:
-        MYSQL_ROOT_PASSWORD: helloworld
+        - MYSQL_ROOT_PASSWORD=helloworld
+        - TZ=Asia/Bangkok
 
    app:
       depends_on:
@@ -21,4 +22,5 @@ services:
       ports:
        - '8080:80'
       environment:
-        PMA_HOST: db
+        - PMA_HOST=db
+        - TZ=Asia/Bangkok
